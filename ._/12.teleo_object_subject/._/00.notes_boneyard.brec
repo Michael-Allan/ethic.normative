@@ -31,4 +31,4 @@
                     : see : looking to the other side, this being my bridge
     test-image
         : see ~/sys/bin/test-image
-        >+ (d=~/work/ethics/normative; test-image -exclude=^$d'/._/(?![^/]+$|(?:0[5-9]|1[01]|ethics)(?:/|$))' $d/)
+        >+ (d=~/work/ethic/normative; test-image -exclude=^$d'/._/(?![^/]+$|(?:0[5-9]|1[01]|ethics)(?:/|$))' $d/)
