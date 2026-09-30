@@ -45,8 +45,8 @@ Lemma: notes
                     - But the principles of reason are universal and timeless.
                     - Therefore the conclusion holds already.
                     ? So might I want to reorder the argument between these two files?
-                        : sc. 20_lemma.brec
-                        : sc. 40_law.brec
+                        : viz. 20_lemma.brec
+                        : viz. 40_law.brec
                         - An isolated argument for an initial lemma might no longer make sense.
                         - The reader might need the context of the argument up front.
                         ? What does the *argument* need, what *premises*?
